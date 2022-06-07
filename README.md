@@ -2,18 +2,18 @@
 ## ABOUT ME
 
 ## Kat's Projects
-### Project 1
+### [Predict Transportation Rate on a Spaceship Titanic](https://minhnhu510.github.io/Kathdoly_Portfolio/)
 * Unordered sub-list. 
 * Unordered sub-list. 
 
-### Project 1
+### [Analysis of Variance US Health Insuarance](https://minhnhu510.github.io/Kathdoly_Portfolio/)
 * Unordered sub-list. 
 * Unordered sub-list. 
 
-### Project 1
+### [Exploratory Data Analysis Ecuador's Store Sales](https://minhnhu510.github.io/Kathdoly_Portfolio/)
 * Unordered sub-list. 
 * Unordered sub-list. 
 
-### Project 1
+### [SEIR Model on COVID 19](https://minhnhu510.github.io/Kathdoly_Portfolio/)
 * Unordered sub-list. 
 * Unordered sub-list. 

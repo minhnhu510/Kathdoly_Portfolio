@@ -18,8 +18,9 @@
 * Identify the affect of holidays and oil prices on stores' transactions.
 * Methods: Data cleaning, EDA, data visualization.
 * Tool and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
-![](/images/your_image.png)
-![](/images/your_image.png)
+![](/images/Holiday type vs city.png)
+![](/images/cluster_transaction.png)
+
 
 
 ### [SEIR Model on COVID 19](https://minhnhu510.github.io/Kathdoly_Portfolio/)

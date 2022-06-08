@@ -1,11 +1,13 @@
 # Kathdoly Portfolio
 ## *ABOUT ME*
-Thank you for visiting my portfolio. My name is Dang Minh Nhu Nguyen and I go by Kat. I am a graduated San Jose State University student major in Applied Mathematics, concentrated Statistics. I am passionate in building models to identify risks, forcast the future to assist my clients, team, company with the best solutions. 
+Welcome to my portfolio. My name is Dang Minh Nhu Nguyen and I go by Kat. I am a graduated San Jose State University student major in Applied Mathematics, concentrated Statistics. I am passionate in building models to identify risks, forcast the future to assist my clients, team, company with the best solutions. 
 
 I love spending my spare with family, friends, cooking, traveling or even enjoying outdoor sunshine. 
 
 Contact me at: nguyendmnhu@gmail.com
-Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing)
+Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. Thank you for visiting.
+
+Warmly hug!
 ![](/images/kat.png)
 
 ## *PROJECTS*
@@ -50,15 +52,16 @@ Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [r
 ![](/images/SEIR_EE.png)
 
 ### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://minhnhu510.github.io/Kathdoly_Portfolio/)
-* Unordered sub-list. 
-* Methods: 
-* Language used: Galaxy Server
+* Analyze variety of bacterias in the gut microbiota of Yellow Fever mosquitos while fed different type of blood to help further prevent and cure Aedes aegypti patients with mild to severe symptoms.
+* Methods: 16s rRNA Sequencing Data, Data Quality Control, Sequencing Alignment, Taxonomic Classification, OTU Clustering, KRONA Visualization
+* Platforms and materials used: Galaxy Bioinformatics Analysis Platform, Taxonomy Data, Silva Database Version 123, NCBI SRA Bioproject PRJNA541017
 
-![](/images/SEIR_DFI.png)
-![](/images/SEIR_EE.png)
+![Human Fed](/images/Bio_human.png)
+![Chicken Fed](/images/Bio_chicken.png)
 
 ## *ACHIEVEMENTS*
 
+![Associated Student Legacy Award](/images/legacy_award.png)
 
 
 

@@ -1,10 +1,11 @@
 # Kathdoly Portfolio
 ## *ABOUT ME*
-Welcome to my portfolio. My name is Dang Minh Nhu Nguyen and I go by Kat. I am a graduated San Jose State University student major in Applied Mathematics, concentrated Statistics. I am passionate in building models to identify risks, forcast the future to assist my clients, team, company with the best solutions. 
+Welcome to my portfolio. My name is Dang Minh Nhu Nguyen and I go by Kat. I am a graduated San Jose State University student major in Applied Mathematics, concentrated Statistics. I am passionate in building models to identify risks, forcast the future to assist my clients, team, company with the best solutions. Currently, I am looking for a fulltime position in companies that focus on either  technology, healthcare, business, finance or astronomy.
 
 I love spending my spare with family, friends, cooking, traveling or even enjoying outdoor sunshine. 
 
-Contact me at: nguyendmnhu@gmail.com
+Contact me at: nguyendmnhu@gmail.com.
+
 Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. Thank you for visiting.
 
 Warmly hug!
@@ -37,8 +38,8 @@ Warmly hug!
 * Methods: Data cleaning, EDA, data visualization.
 * Language and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
 
-![](/images/Holiday type vs city.png)
-![](/images/cluster_transaction.png)
+![Holiday](/images/Holiday type vs city.png)
+![cluster transaction](/images/cluster_transaction.png)
 
 
 
@@ -57,12 +58,16 @@ Warmly hug!
 * Platforms and materials used: Galaxy Bioinformatics Analysis Platform, Taxonomy Data, Silva Database Version 123, NCBI SRA Bioproject PRJNA541017
 
 ![Human Fed](/images/Bio_human.png)
+
 ![Chicken Fed](/images/Bio_chicken.png)
 
 ## *ACHIEVEMENTS*
 [Research, Scholarship and Creative Activity Competition Winner](https://www.linkedin.com/posts/research-innovation-sjsu_sjsu-activity-6919381092948996096-WNgp?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
 ![Dean Scholar](/images/dean_scholar.png)
+
 ![Associated Student Legacy Award](/images/legacy_award.png)
+
 Dierks-Morgan Scholarship
 
 

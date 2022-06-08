@@ -43,7 +43,7 @@ Thank you for visiting. Warmly hug!
 
 ![Holiday](https://github.com/minhnhu510/images/blob/main/Holiday_type_vs%20_city.png)
 
-![cluster transaction](https://github.com/minhnhu510/images/blob/main/cluster_transaction)
+![cluster transaction](https://github.com/minhnhu510/images/blob/main/cluster_transaction.png)
 
 
 

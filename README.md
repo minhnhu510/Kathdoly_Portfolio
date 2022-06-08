@@ -9,6 +9,7 @@ Contact me at: nguyendmnhu@gmail.com.
 Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. 
 
 Thank you for visiting. Warmly hug!
+
 ![kat](/images/kat.png)
 
 ## *PROJECTS*

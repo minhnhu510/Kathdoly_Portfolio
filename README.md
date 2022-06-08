@@ -57,7 +57,7 @@ Thank you for visiting. Warmly hug!
 
 ![seir_ee](https://github.com/minhnhu510/images/blob/main/SEIR_EE.png)
 
-### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://minhnhu510.github.io/Kathdoly_Portfolio/)
+### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Comparison%20between%20the%20Gut%20Microbiota%20of%20Yellow%20Fever%20Mosquitos)
 * Analyze variety of bacterias in the gut microbiota of Yellow Fever mosquitos while fed different type of blood to help further prevent and cure Aedes aegypti patients with mild to severe symptoms.
 * Methods: 16s rRNA Sequencing Data, Data Quality Control, Sequencing Alignment, Taxonomic Classification, OTU Clustering, KRONA Visualization
 * Platforms and materials used: Galaxy Bioinformatics Analysis Platform, Taxonomy Data, Silva Database Version 123, NCBI SRA Bioproject PRJNA541017

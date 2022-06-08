@@ -74,4 +74,3 @@ Thank you for visiting. Warmly hug!
 ![Associated Student Legacy Award](https://github.com/minhnhu510/images/blob/main/legacy_award.png)
 
 Dierks-Morgan Scholarship
-

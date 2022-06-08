@@ -9,7 +9,7 @@ Contact me at: nguyendmnhu@gmail.com.
 Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. 
 
 Thank you for visiting. Warmly hug!
-![](/images/kat.png)
+![kat](/images/kat.png)
 
 ## *PROJECTS*
 ### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
@@ -19,18 +19,18 @@ Thank you for visiting. Warmly hug!
 * Methods: Multiple Imputation,  Multiple Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, K-Nearest Neighbor, Random Forest, Recursive Feature elimination (RFE).
 * Language and packages used: R, MICE, caret, mlbench, MASS, class, randomForest.
 
-![](/images/spaceship_workflow.png)
+![spaceship](/images/spaceship_workflow.png)
 
-![](/images/RFE_result.png)
+![rfe](/images/RFE_result.png)
 
 ### [Analysis of Variance US Health Insurance](https://github.com/minhnhu510/Kat-s-Projects/tree/main/ANOVA%20on%20US%20Health%20Insuarance)
 * Identified the affect of smoking status and number of children on insurance price to assist customers' decision, further to aid the provider with correct price range for each cases to minimize risks.
 * Methods: Hypothesis test, data cleaning, assumptions checking (i.e. Normality, homogeneity of variances, independence variables), Shapiro-Wilk test, ANOVA, Tukey's Test.
 * Language and packages used: R, dplyr, ggpubr, AID.
 
-![](/images/QQplot.png)
+![qq](/images/QQplot.png)
 
-![](/images/ANOVA_workflow.png)
+![anova](/images/ANOVA_workflow.png)
 
 
 ### [Exploratory Data Analysis Ecuador's Store Sales](https://github.com/minhnhu510/Kat-s-Projects/tree/main/EDA%20Store%20Sales)
@@ -40,7 +40,7 @@ Thank you for visiting. Warmly hug!
 * Methods: Data cleaning, EDA, data visualization.
 * Language and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
 
-![Holiday](/images/Holiday type vs city.png)
+![Holiday](/images/Holiday_type_vs_city.png)
 
 ![cluster transaction](/images/cluster_transaction.png)
 
@@ -52,9 +52,9 @@ Thank you for visiting. Warmly hug!
 * Methods: Mathematical modeling, Compartment model, Steady states, Stability checking.
 * Language and packages used: R, deSolve, ggplot2, reshape2.
 
-![](/images/SEIR_DFI.png)
+![seir_dfi](/images/SEIR_DFI.png)
 
-![](/images/SEIR_EE.png)
+![seir_ee](/images/SEIR_EE.png)
 
 ### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://minhnhu510.github.io/Kathdoly_Portfolio/)
 * Analyze variety of bacterias in the gut microbiota of Yellow Fever mosquitos while fed different type of blood to help further prevent and cure Aedes aegypti patients with mild to severe symptoms.
@@ -73,5 +73,4 @@ Thank you for visiting. Warmly hug!
 ![Associated Student Legacy Award](/images/legacy_award.png)
 
 Dierks-Morgan Scholarship
-a
 

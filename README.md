@@ -31,7 +31,7 @@ Thank you for visiting. Warmly hug!
 
 ![qq](/images/QQplot.png)
 
-![anova](/images/ANOVA_workflow.png)
+![anova](https://github.com/minhnhu510/images/blob/main/ANOVA_workflow.png)
 
 
 ### [Exploratory Data Analysis Ecuador's Store Sales](https://github.com/minhnhu510/Kat-s-Projects/tree/main/EDA%20Store%20Sales)

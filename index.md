@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# Dang Minh Nhu Nguyen Portfolio (Kathdoly)
+## *ABOUT ME*
+Welcome to my portfolio. My name is Dang Minh Nhu Nguyen and I go by Kat. I am a San Jose State University student, graduated with a major in Applied Mathematics and a concentration in Statistics. I am passionate in developing models to identify risks, forecast the future to assist my clients, team, company with the best solutions. Currently, I am looking for a full time position at a company that focuses on technology, healthcare, business, finance or aerospace.
 
-You can use the [editor on GitHub](https://github.com/minhnhu510/Kathdoly_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I love spending my spare time with my family and friends, cooking, traveling and even enjoying outdoor sunshine. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact me at: nguyendmnhu@gmail.com.
 
-### Markdown
+Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thank you for visiting. Warmly hug!
 
-```markdown
-Syntax highlighted code block
+![kat](https://github.com/minhnhu510/images/blob/main/kat.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+## *PROJECTS*
+### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
+* Developed a robust model with accuracy score of 86% to predict the transportation rate of a Spaceship Titanic on Kaggle Data Competition.
+* Applied multiple imputation on approximately 10,000 raw data and train 5 different supervised machine learning algorithms to compare the accuracy score.
+* Identified the importance factors that impact the transportation rate.
+* Methods: Multiple Imputation,  Multiple Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, K-Nearest Neighbor, Random Forest, Recursive Feature elimination (RFE).
+* Language and packages used: R, MICE, caret, mlbench, MASS, class, randomForest.
 
-- Bulleted
-- List
+![spaceship](https://github.com/minhnhu510/images/blob/main/spaceship_workflow.png)
 
-1. Numbered
-2. List
+![rfe](https://github.com/minhnhu510/images/blob/main/RFE_result.png)
 
-**Bold** and _Italic_ and `Code` text
+### [Analysis of Variance US Health Insurance](https://github.com/minhnhu510/Kat-s-Projects/tree/main/ANOVA%20on%20US%20Health%20Insuarance)
+* Identified the affect of smoking status and number of children on insurance price to assist customers' decision, further to aid the provider with correct price range for each cases to minimize risks.
+* Methods: Hypothesis test, data cleaning, assumptions checking (i.e. Normality, homogeneity of variances, independence variables), Shapiro-Wilk test, ANOVA, Tukey's Test.
+* Language and packages used: R, dplyr, ggpubr, AID.
 
-[Link](url) and ![Image](src)
-```
+![qq](https://github.com/minhnhu510/images/blob/main/QQplot.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![anova](https://github.com/minhnhu510/images/blob/main/ANOVA_workflow.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minhnhu510/Kathdoly_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Exploratory Data Analysis Ecuador's Store Sales](https://github.com/minhnhu510/Kat-s-Projects/tree/main/EDA%20Store%20Sales)
+* Compared sales and analyzed the relationship between stores in Ecuador to support further predictions based on stores' location and type of products.
+* Identified the affect of holidays and oil prices on stores' transactions.
+* Cleaned and imputed over 83,000 raw data.
+* Methods: Data cleaning, EDA, data visualization.
+* Language and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
 
-### Support or Contact
+![Holiday](https://github.com/minhnhu510/images/blob/main/Holiday_type_vs%20_city.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![cluster transaction](https://github.com/minhnhu510/images/blob/main/cluster_transaction.png)
+
+
+
+### [SEIR Model on COVID 19](https://minhnhu510.github.io/Kathdoly_Portfolio/)
+* Predict long term behaviors of the SEIR model with added rates to forecast the recovered rate after a susceptible humans get exposed and infectious.
+* Built  and compared disease free equilibrium model and endemic equilibrium to prove the assumption that even if 1 person getting exposed but not yet show symptoms, eventually the whole population will have to go through the infectious state.
+* Methods: Mathematical modeling, Compartment model, Steady states, Stability checking.
+* Language and packages used: R, deSolve, ggplot2, reshape2.
+
+![seir_dfi](https://github.com/minhnhu510/images/blob/main/SEIR_DFI.png)
+
+![seir_ee](https://github.com/minhnhu510/images/blob/main/SEIR_EE.png)
+
+### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Comparison%20between%20the%20Gut%20Microbiota%20of%20Yellow%20Fever%20Mosquitos)
+* Analyze variety of bacterias in the gut microbiota of Yellow Fever mosquitos while fed different type of blood to help further prevent and cure Aedes aegypti patients with mild to severe symptoms.
+* Methods: 16s rRNA Sequencing Data, Data Quality Control, Sequencing Alignment, Taxonomic Classification, OTU Clustering, KRONA Visualization
+* Platforms and materials used: Galaxy Bioinformatics Analysis Platform, Taxonomy Data, Silva Database Version 123, NCBI SRA Bioproject PRJNA541017
+
+![Human Fed](https://github.com/minhnhu510/images/blob/main/Bio_human.png)
+
+![Chicken Fed](https://github.com/minhnhu510/images/blob/main/Bio_chicken.png)
+
+## *ACHIEVEMENTS*
+[Research, Scholarship and Creative Activity Competition Winner](https://www.linkedin.com/posts/research-innovation-sjsu_sjsu-activity-6919381092948996096-WNgp?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+![Dean Scholar](https://github.com/minhnhu510/images/blob/main/dean_scholar.png)
+
+![Associated Student Legacy Award](https://github.com/minhnhu510/images/blob/main/legacy_award.png)
+
+Dierks-Morgan Scholarship
+

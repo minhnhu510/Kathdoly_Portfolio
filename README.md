@@ -6,9 +6,9 @@ I love spending my spare with family, friends, cooking, traveling or even enjoyi
 
 Contact me at: nguyendmnhu@gmail.com.
 
-Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. Thank you for visiting.
+Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. 
 
-Warmly hug!
+Thank you for visiting. Warmly hug!
 ![](/images/kat.png)
 
 ## *PROJECTS*
@@ -20,6 +20,7 @@ Warmly hug!
 * Language and packages used: R, MICE, caret, mlbench, MASS, class, randomForest.
 
 ![](/images/spaceship_workflow.png)
+
 ![](/images/RFE_result.png)
 
 ### [Analysis of Variance US Health Insurance](https://github.com/minhnhu510/Kat-s-Projects/tree/main/ANOVA%20on%20US%20Health%20Insuarance)
@@ -28,6 +29,7 @@ Warmly hug!
 * Language and packages used: R, dplyr, ggpubr, AID.
 
 ![](/images/QQplot.png)
+
 ![](/images/ANOVA_workflow.png)
 
 
@@ -39,6 +41,7 @@ Warmly hug!
 * Language and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
 
 ![Holiday](/images/Holiday type vs city.png)
+
 ![cluster transaction](/images/cluster_transaction.png)
 
 
@@ -50,6 +53,7 @@ Warmly hug!
 * Language and packages used: R, deSolve, ggplot2, reshape2.
 
 ![](/images/SEIR_DFI.png)
+
 ![](/images/SEIR_EE.png)
 
 ### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://minhnhu510.github.io/Kathdoly_Portfolio/)

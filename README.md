@@ -6,7 +6,7 @@ I love spending my spare time with my family and friends, cooking, traveling and
 
 Contact me at: nguyendmnhu@gmail.com.
 
-Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. 
+Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1uHmyB3uCxH-kdYCzzX3WfZJI7TEOsgZ9/view?usp=sharing) as well. 
 
 Thank you for visiting. Warmly hug!
 
